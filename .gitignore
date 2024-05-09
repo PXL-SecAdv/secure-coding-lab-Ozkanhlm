@@ -8,4 +8,4 @@
 # Environment variables
 .env
 
-database.sql
+./db/database.sql
