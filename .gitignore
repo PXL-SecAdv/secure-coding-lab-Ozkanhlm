@@ -8,7 +8,4 @@
 # Environment variables
 .env
 
-# Ignore .env file
-.env
-
-./db/database.sql
+database.sql
