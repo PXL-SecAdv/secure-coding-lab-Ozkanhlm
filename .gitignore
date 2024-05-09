@@ -11,4 +11,4 @@
 # Ignore .env file
 .env
 
-db/database.sql
+./db/database.sql
